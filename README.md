@@ -10,7 +10,7 @@
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/crazinneeees)[![Gmail](https://img.shields.io/badge/asqarservis00001@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:majifaji959@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/rimuru_7/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/crazinneeees)[![Gmail](https://img.shields.io/badge/majifaji959@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:majifaji959@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/rimuru_7/)
 
 # 💻 Tech Stack:
 
